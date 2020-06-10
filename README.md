@@ -1,3 +1,4 @@
+Click [here](https://ziara-mji.netlify.app/) to visit the site
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
